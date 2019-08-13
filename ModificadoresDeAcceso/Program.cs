@@ -31,7 +31,7 @@ namespace ModificadoresDeAcceso
             
 
             Console.ReadLine();
-            
+        
         }
     }
 }
